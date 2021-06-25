@@ -1,0 +1,100 @@
+Variant: debug
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: release
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: profile
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+
+> Task :path_provider:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: /home/jirlan/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 8A:5D:E4:5D:9C:7D:22:2D:81:28:89:F6:13:1C:5D:48
+SHA1: 86:CA:8F:AF:51:F8:26:5F:A4:F4:1A:84:A5:8C:4D:71:52:42:36:8F
+SHA-256: A4:3C:A7:0B:1E:E0:97:DD:F5:28:7F:85:97:E5:7A:8C:93:A0:8E:27:F2:E8:32:DD:B4:30:14:30:10:AA:14:38
+Valid until: sábado, 17 de junho de 2051
